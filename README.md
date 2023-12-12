@@ -45,12 +45,15 @@ This is a simple audio player application built using Python and the Tkinter lib
 
 ## Installation
 
-1. Clone or download the repository.
-2. Install the required libraries:
+1. Clone or download the repository:
+   `` bash
+   git clone https://github.com/Athallah1234/Music-Player.git
+   ``
+3. Install the required libraries:
    `` bash
    pip install pygame eyed3
    ``
-3. Run the application:
+4. Run the application:
    `` bash
    python audio_player.py
    ``
