@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 - Issue with incorrect song duration display.
 - Bug causing the player to stop unexpectedly.
 
-## [1.0.0] - YYYY-MM-DD
+## [1.0.0] - 2023-12-12
 
 ### Added
 - Initial release of the Audio Player.
